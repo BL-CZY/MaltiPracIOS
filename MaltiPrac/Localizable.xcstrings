@@ -1,0 +1,151 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "MainConversation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conversation"
+          }
+        },
+        "mt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konverżazzjoni"
+          }
+        },
+        "mt-MT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konverżazzjoni"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交流"
+          }
+        }
+      }
+    },
+    "MainGrammar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grammar"
+          }
+        },
+        "mt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grammatika"
+          }
+        },
+        "mt-MT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grammatika"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语法"
+          }
+        }
+      }
+    },
+    "MainPronunciation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronunciation"
+          }
+        },
+        "mt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronunzja"
+          }
+        },
+        "mt-MT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pronunzja"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发音"
+          }
+        }
+      }
+    },
+    "MainTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome"
+          }
+        },
+        "mt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merħba"
+          }
+        },
+        "mt-MT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merħba"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢迎"
+          }
+        }
+      }
+    },
+    "MainVocab" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vocabulary"
+          }
+        },
+        "mt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vokabularju"
+          }
+        },
+        "mt-MT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vokabularju"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "词汇"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
